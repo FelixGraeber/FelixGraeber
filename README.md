@@ -9,9 +9,5 @@
 
 ## Skills
 
-- AI tooling
-- iOS
-- Android
-- App Store Optimization
-- Internal tools
-- Product engineering
+- **[claude-aso-audit-skill](https://github.com/FelixGraeber/claude-aso-audit-skill)** - audit App Store and Google Play listings for keywords, metadata, visuals, reviews, and competitors
+- **[claude-android-audit-skill](https://github.com/FelixGraeber/claude-android-audit-skill)** - audit Android repos for architecture, security, performance, accessibility, build health, and Play preflight
