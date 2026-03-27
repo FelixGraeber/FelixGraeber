@@ -1,11 +1,11 @@
 ## Current Projects
 
-- [getnuri.com](https://getnuri.com)
-- [longevlab.com](https://longevlab.com)
-- [invoice-converter.com](https://invoice-converter.com)
-- [bauigel.com](https://bauigel.com)
-- [reviewdoc.ai](https://reviewdoc.ai)
-- [buyeuropean.ai](https://buyeuropean.ai)
+- **[getnuri.com](https://getnuri.com)** - Nutrition-focused mobile product for tracking health and food data.
+- **[longevlab.com](https://longevlab.com)** - Longevity platform with patient, clinic, and biomarker workflows.
+- **[invoice-converter.com](https://invoice-converter.com)** - Invoice conversion tool for transforming documents into structured invoice formats.
+- **[bauigel.com](https://bauigel.com)** - AI analysis tool for German construction bid documents and LV workflows.
+- **[reviewdoc.ai](https://reviewdoc.ai)** - AI document review product for extracting issues, risks, and structured feedback.
+- **[buyeuropean.ai](https://buyeuropean.ai)** - Product discovery platform for finding European alternatives and brands.
 
 ## Skills
 
