@@ -5,7 +5,7 @@
 - **[invoice-converter.com](https://invoice-converter.com)** - effortlessly comply with european e-invoicing regulation
 - **[bauigel.com](https://bauigel.com)** - smarter planning and building for german construction companies
 - **[getnuri.com](https://getnuri.com)** - the food diary that doesn't suck
-- **[buyeuropean.ai](https://buyeuropean.ai)** - vote with your money
+- **[buyeuropean.io](https://buyeuropean.io)** - vote with your money
 
 ## Skills
 
