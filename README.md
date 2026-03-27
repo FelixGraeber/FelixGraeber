@@ -1,7 +1,7 @@
 ## Current Projects
 
-- **[getnuri.com](https://getnuri.com)** - Nutrition-focused mobile product for tracking health and food data.
-- **[longevlab.com](https://longevlab.com)** - Longevity platform with patient, clinic, and biomarker workflows.
+- **[getnuri.com](https://getnuri.com)** - the food diary that doesn't suck
+- **[longevlab.com](https://longevlab.com)** - track your vitals, biomarkers, supplements and more
 - **[invoice-converter.com](https://invoice-converter.com)** - Invoice conversion tool for transforming documents into structured invoice formats.
 - **[bauigel.com](https://bauigel.com)** - AI analysis tool for German construction bid documents and LV workflows.
 - **[reviewdoc.ai](https://reviewdoc.ai)** - AI document review product for extracting issues, risks, and structured feedback.
