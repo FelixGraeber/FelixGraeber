@@ -1,4 +1,4 @@
-## Current Projects
+## Projects
 
 - **[longevlab.com](https://longevlab.com)** - track your vitals, biomarkers, supplements and more
 - **[reviewdoc.ai](https://reviewdoc.ai)** - automated first-level document review
