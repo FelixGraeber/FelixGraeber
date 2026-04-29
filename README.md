@@ -6,10 +6,7 @@
 - **[bauigel.com](https://bauigel.com)** - smarter planning and building for german construction companies
 - **[getnuri.com](https://getnuri.com)** - the food diary that doesn't suck
 - **[buyeuropean.io](https://buyeuropean.io)** - vote with your money
-
-## Open Source
-
-- **[linkedin-unhumble](https://github.com/FelixGraeber/linkedin-unhumble)** - chrome extension that filters humble-bragging posts and overlays cringe selfies with a confused-dog gif. on-device classification via mediapipe blazeface, zero servers
+- **[linkedin-unhumble](https://github.com/FelixGraeber/linkedin-unhumble)** - chrome extension that filters humble-bragging posts and overlays cringe selfies with a confused-dog gif
 
 ## Skills
 
