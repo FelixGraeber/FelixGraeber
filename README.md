@@ -12,7 +12,7 @@
 - **[getnuri.com](https://getnuri.com)** - the food diary that doesn't suck
 - **[buyeuropean.io](https://buyeuropean.io)** - vote with your money
 - **[linkedin-unhumble](https://github.com/FelixGraeber/linkedin-unhumble)** -
-  chrome extension that filters humble-bragging posts and overlays cringe selfies
+  Chrome extension that filters humble-bragging posts and overlays cringe selfies
   with a confused-dog gif
 
 ## Skills
